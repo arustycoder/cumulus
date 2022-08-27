@@ -1,4 +1,5 @@
 (function() {var implementors = {};
+implementors["collectives_polkadot_runtime"] = [{"text":"impl Dispatchable for <a class=\"enum\" href=\"collectives_polkadot_runtime/enum.Call.html\" title=\"enum collectives_polkadot_runtime::Call\">Call</a>","synthetic":false,"types":["collectives_polkadot_runtime::Call"]}];
 implementors["contracts_rococo_runtime"] = [{"text":"impl Dispatchable for <a class=\"enum\" href=\"contracts_rococo_runtime/enum.Call.html\" title=\"enum contracts_rococo_runtime::Call\">Call</a>","synthetic":false,"types":["contracts_rococo_runtime::Call"]}];
 implementors["cumulus_test_runtime"] = [{"text":"impl Dispatchable for <a class=\"enum\" href=\"cumulus_test_runtime/enum.Call.html\" title=\"enum cumulus_test_runtime::Call\">Call</a>","synthetic":false,"types":["cumulus_test_runtime::Call"]}];
 implementors["parachain_template_runtime"] = [{"text":"impl Dispatchable for <a class=\"enum\" href=\"parachain_template_runtime/enum.Call.html\" title=\"enum parachain_template_runtime::Call\">Call</a>","synthetic":false,"types":["parachain_template_runtime::Call"]}];

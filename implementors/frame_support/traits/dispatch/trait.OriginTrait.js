@@ -1,4 +1,5 @@
 (function() {var implementors = {};
+implementors["collectives_polkadot_runtime"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"collectives_polkadot_runtime/struct.Origin.html\" title=\"struct collectives_polkadot_runtime::Origin\">Origin</a>","synthetic":false,"types":["collectives_polkadot_runtime::Origin"]}];
 implementors["contracts_rococo_runtime"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"contracts_rococo_runtime/struct.Origin.html\" title=\"struct contracts_rococo_runtime::Origin\">Origin</a>","synthetic":false,"types":["contracts_rococo_runtime::Origin"]}];
 implementors["cumulus_test_runtime"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"cumulus_test_runtime/struct.Origin.html\" title=\"struct cumulus_test_runtime::Origin\">Origin</a>","synthetic":false,"types":["cumulus_test_runtime::Origin"]}];
 implementors["parachain_template_runtime"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"parachain_template_runtime/struct.Origin.html\" title=\"struct parachain_template_runtime::Origin\">Origin</a>","synthetic":false,"types":["parachain_template_runtime::Origin"]}];
